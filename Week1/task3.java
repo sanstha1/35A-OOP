@@ -13,3 +13,4 @@ public class task3 {
         System.out.println("A \"quoted\" String is \'much\' better if you learn the rules of \"escape sequences.\" \nAlso, \"\" represents an emptyString. Don't forget: use \\\" instead of \" !\'\' is not the same as\"");
     }
 }
+
