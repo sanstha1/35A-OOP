@@ -19,5 +19,7 @@ public class task8 {
 
         System.out.println("The area of the given square is : " + area);
 
+        scanner.close();
+
     }
 }
